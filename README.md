@@ -144,7 +144,7 @@ The website will open in the browser and all changes can be viewed in real time.
 
 This website is publicly available through **GitHub Pages**. You can access the online version via the link below:
 
-🔗  https://your-username.github.io/your-repository
+🔗  https://daniellacamilo.github.io/daniellacamilosportfolio/
 
 ------
 
